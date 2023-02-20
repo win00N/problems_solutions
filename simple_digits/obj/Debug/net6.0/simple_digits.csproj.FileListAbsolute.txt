@@ -1,0 +1,15 @@
+D:\Projects\problems_solutions\simple_digits\bin\Debug\net6.0\simple_digits.exe
+D:\Projects\problems_solutions\simple_digits\bin\Debug\net6.0\simple_digits.deps.json
+D:\Projects\problems_solutions\simple_digits\bin\Debug\net6.0\simple_digits.runtimeconfig.json
+D:\Projects\problems_solutions\simple_digits\bin\Debug\net6.0\simple_digits.dll
+D:\Projects\problems_solutions\simple_digits\bin\Debug\net6.0\simple_digits.pdb
+D:\Projects\problems_solutions\simple_digits\obj\Debug\net6.0\simple_digits.csproj.AssemblyReference.cache
+D:\Projects\problems_solutions\simple_digits\obj\Debug\net6.0\simple_digits.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\problems_solutions\simple_digits\obj\Debug\net6.0\simple_digits.AssemblyInfoInputs.cache
+D:\Projects\problems_solutions\simple_digits\obj\Debug\net6.0\simple_digits.AssemblyInfo.cs
+D:\Projects\problems_solutions\simple_digits\obj\Debug\net6.0\simple_digits.csproj.CoreCompileInputs.cache
+D:\Projects\problems_solutions\simple_digits\obj\Debug\net6.0\simple_digits.dll
+D:\Projects\problems_solutions\simple_digits\obj\Debug\net6.0\refint\simple_digits.dll
+D:\Projects\problems_solutions\simple_digits\obj\Debug\net6.0\simple_digits.pdb
+D:\Projects\problems_solutions\simple_digits\obj\Debug\net6.0\simple_digits.genruntimeconfig.cache
+D:\Projects\problems_solutions\simple_digits\obj\Debug\net6.0\ref\simple_digits.dll
