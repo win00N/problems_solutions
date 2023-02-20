@@ -1,0 +1,1 @@
+# Solve tasks and some leetCode
