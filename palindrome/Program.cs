@@ -1,14 +1,31 @@
 ﻿
 // Задача — проверить, является ли это число палиндромом.
 
-var x = Convert.ToInt32(Console.ReadLine());
+var x = Console.ReadLine();
+var y = int.Parse(Console.ReadLine());
 
-Console.WriteLine(IsPalindrome(x));
+Console.WriteLine(IsPalindromeForString(x));
+Console.WriteLine(IsPalindromeForInt(y));
 
+/// <summary>
+/// Реализовано два метода для поиска палиндрома:
+/// 1.Для строки
+/// 2.Для Цифр
+/// </summary>
 
-bool IsPalindrome(int digit)
+bool IsPalindromeForString(string str)
 {
-	if (digit == 1)
+	str = str.ToLower();
+
+	if (str[0] == str[^1]) 
+		return true;
+
+	return false;
+}
+
+bool IsPalindromeForInt(int digit)
+{
+	if (digit <= 9)
 	{
 		return true;
 	}
