@@ -1,0 +1,15 @@
+C:\Users\Nursat\source\repos\win00N\problems_solutions\palindrome\bin\Debug\net6.0\palindrome.exe
+C:\Users\Nursat\source\repos\win00N\problems_solutions\palindrome\bin\Debug\net6.0\palindrome.deps.json
+C:\Users\Nursat\source\repos\win00N\problems_solutions\palindrome\bin\Debug\net6.0\palindrome.runtimeconfig.json
+C:\Users\Nursat\source\repos\win00N\problems_solutions\palindrome\bin\Debug\net6.0\palindrome.dll
+C:\Users\Nursat\source\repos\win00N\problems_solutions\palindrome\bin\Debug\net6.0\palindrome.pdb
+C:\Users\Nursat\source\repos\win00N\problems_solutions\palindrome\obj\Debug\net6.0\palindrome.csproj.AssemblyReference.cache
+C:\Users\Nursat\source\repos\win00N\problems_solutions\palindrome\obj\Debug\net6.0\palindrome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nursat\source\repos\win00N\problems_solutions\palindrome\obj\Debug\net6.0\palindrome.AssemblyInfoInputs.cache
+C:\Users\Nursat\source\repos\win00N\problems_solutions\palindrome\obj\Debug\net6.0\palindrome.AssemblyInfo.cs
+C:\Users\Nursat\source\repos\win00N\problems_solutions\palindrome\obj\Debug\net6.0\palindrome.csproj.CoreCompileInputs.cache
+C:\Users\Nursat\source\repos\win00N\problems_solutions\palindrome\obj\Debug\net6.0\palindrome.dll
+C:\Users\Nursat\source\repos\win00N\problems_solutions\palindrome\obj\Debug\net6.0\refint\palindrome.dll
+C:\Users\Nursat\source\repos\win00N\problems_solutions\palindrome\obj\Debug\net6.0\palindrome.pdb
+C:\Users\Nursat\source\repos\win00N\problems_solutions\palindrome\obj\Debug\net6.0\palindrome.genruntimeconfig.cache
+C:\Users\Nursat\source\repos\win00N\problems_solutions\palindrome\obj\Debug\net6.0\ref\palindrome.dll
