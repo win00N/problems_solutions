@@ -15,9 +15,21 @@ Console.WriteLine(IsPalindromeForInt(y));
 
 bool IsPalindromeForString(string str)
 {
+	string ReverseStr(string str2)
+	{
+		var result = "";
+
+		for (int i = 0; i < str.Length; i++)
+		{
+			result = str2[i] + result;
+			
+		}
+		return result;
+	}
+
 	str = str.ToLower();
 
-	if (str[0] == str[^1]) 
+	if (str.Equals(ReverseStr(str)))
 		return true;
 
 	return false;
@@ -25,6 +37,20 @@ bool IsPalindromeForString(string str)
 
 bool IsPalindromeForInt(int digit)
 {
+	int ReverseDigit(int Digit)
+	{
+		var result = "";
+		var digit = Digit.ToString().Length;
+
+		for (int i = 0; i < digit; i++)
+		{
+			result += Digit % 10;
+			Digit = Digit / 10;
+		}
+
+		return int.Parse(result);
+	}
+
 	if (digit <= 9)
 	{
 		return true;
@@ -39,18 +65,5 @@ bool IsPalindromeForInt(int digit)
 	}
 
 	return false;
-}
 
-int ReverseDigit(int Digit)
-{
-	var result = "";
-	var digit = Digit.ToString().Length;
-
-	for (int i = 0; i < digit; i++)
-	{
-		result += Digit % 10;
-		Digit = Digit / 10;
-	}
-
-	return int.Parse(result);
 }
