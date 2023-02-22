@@ -15,6 +15,9 @@ Console.WriteLine();
 var maxVal = array[0];
 var index = 0;
 
+
+// Time: O(n)
+
 for (int i = 0; i < array.Length; i++)
 {
 	if (maxVal < array[i])
