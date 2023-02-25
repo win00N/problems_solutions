@@ -1,0 +1,15 @@
+C:\Users\Nursat\Source\Repos\problems_solutions\RecursionTask\bin\Debug\net6.0\RecursionTask.exe
+C:\Users\Nursat\Source\Repos\problems_solutions\RecursionTask\bin\Debug\net6.0\RecursionTask.deps.json
+C:\Users\Nursat\Source\Repos\problems_solutions\RecursionTask\bin\Debug\net6.0\RecursionTask.runtimeconfig.json
+C:\Users\Nursat\Source\Repos\problems_solutions\RecursionTask\bin\Debug\net6.0\RecursionTask.dll
+C:\Users\Nursat\Source\Repos\problems_solutions\RecursionTask\bin\Debug\net6.0\RecursionTask.pdb
+C:\Users\Nursat\Source\Repos\problems_solutions\RecursionTask\obj\Debug\net6.0\RecursionTask.csproj.AssemblyReference.cache
+C:\Users\Nursat\Source\Repos\problems_solutions\RecursionTask\obj\Debug\net6.0\RecursionTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nursat\Source\Repos\problems_solutions\RecursionTask\obj\Debug\net6.0\RecursionTask.AssemblyInfoInputs.cache
+C:\Users\Nursat\Source\Repos\problems_solutions\RecursionTask\obj\Debug\net6.0\RecursionTask.AssemblyInfo.cs
+C:\Users\Nursat\Source\Repos\problems_solutions\RecursionTask\obj\Debug\net6.0\RecursionTask.csproj.CoreCompileInputs.cache
+C:\Users\Nursat\Source\Repos\problems_solutions\RecursionTask\obj\Debug\net6.0\RecursionTask.dll
+C:\Users\Nursat\Source\Repos\problems_solutions\RecursionTask\obj\Debug\net6.0\refint\RecursionTask.dll
+C:\Users\Nursat\Source\Repos\problems_solutions\RecursionTask\obj\Debug\net6.0\RecursionTask.pdb
+C:\Users\Nursat\Source\Repos\problems_solutions\RecursionTask\obj\Debug\net6.0\RecursionTask.genruntimeconfig.cache
+C:\Users\Nursat\Source\Repos\problems_solutions\RecursionTask\obj\Debug\net6.0\ref\RecursionTask.dll

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nursat\\Source\\Repos\\problems_solutions\\palindrome\\palindrome.csproj",
-      "projectName": "palindrome",
-      "projectPath": "C:\\Users\\Nursat\\Source\\Repos\\problems_solutions\\palindrome\\palindrome.csproj",
+      "projectUniqueName": "C:\\Users\\Nursat\\Source\\Repos\\problems_solutions\\RecursionTask\\RecursionTask.csproj",
+      "projectName": "RecursionTask",
+      "projectPath": "C:\\Users\\Nursat\\Source\\Repos\\problems_solutions\\RecursionTask\\RecursionTask.csproj",
       "packagesPath": "C:\\Users\\Nursat\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nursat\\Source\\Repos\\problems_solutions\\palindrome\\obj\\",
+      "outputPath": "C:\\Users\\Nursat\\Source\\Repos\\problems_solutions\\RecursionTask\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Nursat\\AppData\\Roaming\\NuGet\\NuGet.Config",

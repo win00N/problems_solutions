@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nursat\\source\\repos\\win00N\\problems_solutions\\simple_digits\\simple_digits.csproj",
+      "projectUniqueName": "C:\\Users\\Nursat\\Source\\Repos\\problems_solutions\\simple_digits\\simple_digits.csproj",
       "projectName": "simple_digits",
-      "projectPath": "C:\\Users\\Nursat\\source\\repos\\win00N\\problems_solutions\\simple_digits\\simple_digits.csproj",
+      "projectPath": "C:\\Users\\Nursat\\Source\\Repos\\problems_solutions\\simple_digits\\simple_digits.csproj",
       "packagesPath": "C:\\Users\\Nursat\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nursat\\source\\repos\\win00N\\problems_solutions\\simple_digits\\obj\\",
+      "outputPath": "C:\\Users\\Nursat\\Source\\Repos\\problems_solutions\\simple_digits\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Nursat\\AppData\\Roaming\\NuGet\\NuGet.Config",

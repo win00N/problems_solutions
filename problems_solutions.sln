@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "palindrome", "palindrome\pa
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindMax", "FindMax\FindMax.csproj", "{04EA6761-F162-4F52-A20B-FEB5E40AA457}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursionTask", "RecursionTask\RecursionTask.csproj", "{ED83FC25-3877-46B9-935B-787640D298E5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{04EA6761-F162-4F52-A20B-FEB5E40AA457}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{04EA6761-F162-4F52-A20B-FEB5E40AA457}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{04EA6761-F162-4F52-A20B-FEB5E40AA457}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED83FC25-3877-46B9-935B-787640D298E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED83FC25-3877-46B9-935B-787640D298E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED83FC25-3877-46B9-935B-787640D298E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED83FC25-3877-46B9-935B-787640D298E5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

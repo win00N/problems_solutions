@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nursat\\source\\repos\\win00N\\problems_solutions\\FindMax\\FindMax.csproj": {}
+    "C:\\Users\\Nursat\\Source\\Repos\\problems_solutions\\FindMax\\FindMax.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nursat\\source\\repos\\win00N\\problems_solutions\\FindMax\\FindMax.csproj": {
+    "C:\\Users\\Nursat\\Source\\Repos\\problems_solutions\\FindMax\\FindMax.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nursat\\source\\repos\\win00N\\problems_solutions\\FindMax\\FindMax.csproj",
+        "projectUniqueName": "C:\\Users\\Nursat\\Source\\Repos\\problems_solutions\\FindMax\\FindMax.csproj",
         "projectName": "FindMax",
-        "projectPath": "C:\\Users\\Nursat\\source\\repos\\win00N\\problems_solutions\\FindMax\\FindMax.csproj",
+        "projectPath": "C:\\Users\\Nursat\\Source\\Repos\\problems_solutions\\FindMax\\FindMax.csproj",
         "packagesPath": "C:\\Users\\Nursat\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nursat\\source\\repos\\win00N\\problems_solutions\\FindMax\\obj\\",
+        "outputPath": "C:\\Users\\Nursat\\Source\\Repos\\problems_solutions\\FindMax\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Nursat\\AppData\\Roaming\\NuGet\\NuGet.Config",
